@@ -1,0 +1,221 @@
+id,title,season,avg_age,total_market_value
+88,Manchester City,2023,25.7,1460
+88,Manchester City,2024,25.6,1360
+88,Manchester City,2025,26.4,1330
+83,Arsenal,2023,24.6,1200
+88,Manchester City,2018,24.6,1200
+80,Chelsea,2025,23.4,1200
+80,Chelsea,2018,26.2,1170
+87,Liverpool,2018,25.2,1170
+83,Arsenal,2024,24.5,1160
+88,Manchester City,2022,26,1150
+80,Chelsea,2024,22.4,1140
+83,Arsenal,2025,25.8,1120
+87,Liverpool,2025,25.9,1120
+88,Manchester City,2019,25.4,1050
+88,Manchester City,2020,25.3,1040
+80,Chelsea,2023,22.2,1010
+88,Manchester City,2017,25.5,1010
+83,Arsenal,2022,24,1000
+87,Liverpool,2019,23.8,1000
+88,Manchester City,2021,24.7,1000
+80,Chelsea,2022,25.2,994.95
+87,Liverpool,2020,24.9,969.65
+87,Liverpool,2023,24.2,955.65
+87,Liverpool,2024,24.7,950.95
+87,Liverpool,2021,24.5,918.9
+80,Chelsea,2021,25.6,914.5
+82,Tottenham,2018,26,898.6
+80,Chelsea,2020,25.7,889.2
+80,Chelsea,2017,25.3,884.25
+87,Liverpool,2017,25.4,857.5
+89,Manchester United,2017,26.6,849.5
+89,Manchester United,2022,25.4,847.75
+82,Tottenham,2023,25.6,838.5
+82,Tottenham,2017,25.2,829.6
+89,Manchester United,2024,24,825
+89,Manchester United,2025,24.8,818
+87,Liverpool,2022,25.6,811.85
+89,Manchester United,2023,24.9,808.35
+82,Tottenham,2019,25.3,806.8
+82,Tottenham,2025,24.3,804.9
+89,Manchester United,2018,25.9,797.6
+82,Tottenham,2024,24,777.3
+89,Manchester United,2020,25.4,770.05
+89,Manchester United,2021,26,769.15
+71,Aston Villa,2023,25,709.65
+80,Chelsea,2019,24.7,705.85
+82,Tottenham,2020,25.2,703.5
+83,Arsenal,2017,25.4,694
+220,Brighton,2025,24.6,690
+82,Tottenham,2021,24,689.35
+80,Chelsea,2016,25.4,686.7
+71,Aston Villa,2024,25.2,680.55
+86,Newcastle United,2024,27.5,677.53
+89,Manchester United,2019,24.4,670.45
+220,Brighton,2024,24.2,667.58
+83,Arsenal,2018,25.4,659.05
+86,Newcastle United,2023,26.3,652.25
+82,Tottenham,2022,25.9,649.1
+86,Newcastle United,2025,27.5,642.88
+83,Arsenal,2020,24.9,619.25
+83,Arsenal,2021,24,613.05
+83,Arsenal,2019,24.8,607.65
+88,Manchester City,2016,26.9,576.5
+71,Aston Villa,2025,26.6,571.3
+80,Chelsea,2015,25.2,553.5
+82,Tottenham,2016,24.1,543.65
+83,Arsenal,2016,25.3,542
+86,Newcastle United,2022,28.3,541.6
+89,Manchester United,2016,25,531.45
+220,Brighton,2022,24.1,529.8
+72,Everton,2018,26.6,529.1
+78,Crystal Palace,2024,26.2,526.85
+75,Leicester,2021,25.7,526.55
+220,Brighton,2023,24.2,524.4
+73,Bournemouth,2024,24.7,518.6
+72,Everton,2020,25.2,511.2
+75,Leicester,2020,25.8,510.6
+71,Aston Villa,2022,25.4,509.55
+249,Nottingham Forest,2023,26.6,501.35
+88,Manchester City,2015,25.9,499.35
+229,Wolverhampton Wanderers,2022,25.8,497.65
+75,Leicester,2022,26.4,490.7
+71,Aston Villa,2021,24.8,487.75
+81,West Ham,2023,26.6,487.5
+249,Nottingham Forest,2024,26.8,481.3
+72,Everton,2021,26,479.05
+249,Nottingham Forest,2025,26.4,470.2
+81,West Ham,2022,25.4,465.6
+78,Crystal Palace,2025,25.6,458.7
+83,Arsenal,2015,25.2,457.85
+229,Wolverhampton Wanderers,2020,24.4,450.3
+78,Crystal Palace,2023,25.1,446.58
+229,Wolverhampton Wanderers,2023,23.9,442.73
+89,Manchester United,2015,24.1,439.85
+75,Leicester,2018,26.9,434.1
+244,Brentford,2025,24.4,433.08
+229,Wolverhampton Wanderers,2024,25.3,433.05
+71,Aston Villa,2020,23.9,430.7
+244,Brentford,2023,25,428.78
+244,Brentford,2024,24.4,427.85
+87,Liverpool,2016,24.9,425.65
+73,Bournemouth,2025,25.8,421.15
+72,Everton,2019,26.5,420.55
+74,Southampton,2022,24.8,419.95
+72,Everton,2022,26.9,413.15
+75,Leicester,2019,26.4,411.1
+73,Bournemouth,2023,25.7,401.75
+81,West Ham,2024,28,400.7
+72,Everton,2023,26.8,391.75
+228,Fulham,2023,26.9,384.35
+72,Everton,2017,25.4,381.25
+229,Wolverhampton Wanderers,2021,24.8,376.95
+249,Nottingham Forest,2022,26.6,376.25
+87,Liverpool,2015,23.9,375.25
+82,Tottenham,2015,24.2,371.85
+244,Brentford,2022,25.3,371.2
+81,West Ham,2025,27.3,370.8
+72,Everton,2024,25.8,363.23
+228,Fulham,2024,27.7,362.35
+81,West Ham,2018,27.1,359
+81,West Ham,2021,26.3,354.9
+245,Leeds,2022,24,345.15
+81,West Ham,2020,27,334.9
+229,Wolverhampton Wanderers,2025,25.4,334.3
+228,Fulham,2025,27.3,330.6
+78,Crystal Palace,2022,25.4,323.05
+229,Wolverhampton Wanderers,2019,23.6,320.33
+220,Brighton,2021,24.6,318
+86,Newcastle United,2021,27.9,313.9
+72,Everton,2016,26.4,311.25
+74,Southampton,2024,25.3,310.05
+73,Bournemouth,2018,26.2,310
+74,Southampton,2018,25.5,305.4
+75,Leicester,2017,27,304.25
+81,West Ham,2019,27,303.6
+229,Wolverhampton Wanderers,2018,24.5,302.9
+245,Leeds,2021,24,299.45
+74,Southampton,2017,26.4,297
+228,Fulham,2022,25.9,295.1
+220,Brighton,2020,24.9,290.4
+78,Crystal Palace,2018,26.9,289
+73,Bournemouth,2022,25,287.2
+74,Southampton,2020,25,282.8
+74,Southampton,2021,25.6,274.3
+92,Burnley,2023,25.3,273.48
+244,Brentford,2021,24.7,273.3
+81,West Ham,2016,25.1,273.05
+73,Bournemouth,2019,25.4,272.18
+78,Crystal Palace,2021,26.5,271.05
+285,Ipswich,2024,26.6,270.1
+74,Southampton,2016,25.9,263.75
+81,West Ham,2017,25.7,260.6
+72,Everton,2025,26.1,259.2
+86,Newcastle United,2020,27.4,255.35
+228,Fulham,2018,26.2,254.25
+75,Leicester,2024,25.3,253.35
+86,Newcastle United,2019,26.6,252.48
+72,Everton,2015,26.1,249.85
+86,Newcastle United,2018,26.6,244.65
+228,Fulham,2020,27,239.75
+90,Watford,2018,26.7,239.1
+245,Leeds,2020,25.1,238.1
+245,Leeds,2025,25.9,234.95
+71,Aston Villa,2019,26.2,231.7
+78,Crystal Palace,2016,26.6,228.43
+92,Burnley,2025,25.2,225.7
+74,Southampton,2015,25.6,225.5
+78,Crystal Palace,2017,26.3,220.73
+75,Leicester,2016,27.1,218.65
+74,Southampton,2019,25,210.75
+86,Newcastle United,2017,25.9,208.28
+81,West Ham,2015,24.7,201.33
+220,Brighton,2019,25.3,200.78
+90,Watford,2019,26.2,199.6
+86,Newcastle United,2015,25.2,198
+92,Burnley,2018,28.6,197.25
+90,Watford,2017,27.4,196
+220,Brighton,2018,26.3,194.35
+78,Crystal Palace,2020,28.2,193.85
+85,Stoke,2017,26.8,192.45
+78,Crystal Palace,2019,27.4,189.33
+85,Stoke,2016,27.7,186
+90,Watford,2016,27.3,175.65
+77,Sunderland,2025,24.1,171.48
+92,Burnley,2017,28.3,169.3
+76,West Bromwich Albion,2017,27,165.95
+84,Swansea,2017,26.8,165.49
+92,Burnley,2019,26.8,163.88
+79,Norwich,2021,24.7,163.2
+75,Leicester,2015,27.3,161.1
+84,Swansea,2016,27.4,157.1
+90,Watford,2021,26.4,156.2
+238,Sheffield United,2023,24.7,152.35
+238,Sheffield United,2020,25.4,149.85
+220,Brighton,2017,27.3,148.2
+85,Stoke,2015,27.9,147
+84,Swansea,2015,26.4,145.8
+79,Norwich,2019,26,145.33
+73,Bournemouth,2017,26.4,144.5
+76,West Bromwich Albion,2020,26.6,141.15
+256,Luton,2023,25.7,140.9
+238,Sheffield United,2019,27.9,138.6
+92,Burnley,2021,27.9,137.85
+219,Huddersfield,2018,25.8,137.45
+90,Watford,2015,27.8,137
+91,Hull,2016,26.5,135.85
+78,Crystal Palace,2015,27.2,135.7
+92,Burnley,2020,27.1,132.3
+77,Sunderland,2016,25.8,132
+73,Bournemouth,2016,24.8,131.6
+93,Middlesbrough,2016,27.9,128.8
+76,West Bromwich Albion,2016,27.7,123.2
+71,Aston Villa,2015,25.1,117.95
+79,Norwich,2015,27,116.9
+76,West Bromwich Albion,2015,26.9,113.1
+227,Cardiff,2018,27.8,113
+77,Sunderland,2015,27,111.25
+92,Burnley,2016,27.2,107.18
+219,Huddersfield,2017,26.1,106.05
+73,Bournemouth,2015,25.6,99.9

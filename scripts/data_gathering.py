@@ -95,12 +95,11 @@ def fetch_team_data(df_matches, start_year: int, end_year: int, league: str) -> 
     df_summary = df_summary.drop_duplicates(subset=['id', 'xG', 'xGA'])
     return df_summary
 
-
 def fetch_elo_data(df_summary) -> pd.DataFrame:
     """Fetches ELO data from ClubElo API."""
     team_list = df_summary['title'].dropna().unique().tolist()
     print(team_list)
-    
+
     final_team_name_map = {
     'Manchester City': 'ManCity',
     'Manchester United': 'ManUnited',
@@ -143,10 +142,12 @@ def fetch_elo_data(df_summary) -> pd.DataFrame:
 # ---------- MAIN EXECUTION ----------
 if __name__ == "__main__":
     df_matches = fetch_match_data(START_YEAR, END_YEAR, LEAGUE)
+    df_matches.to_csv('data/raw/2015-2024_match_data.csv', index=False)
     print(df_matches.head())
 
     df_summary = fetch_team_data(df_matches, START_YEAR, END_YEAR, LEAGUE)
+    df_summary.to_csv('data/raw/2015-2024_team_data.csv', index=False)
     print(df_summary.head())
 
     df_elo = fetch_elo_data(df_summary)
-    print(df_elo.head())
+    df_elo.to_csv('data/raw/elo_rating.csv', index=False)
