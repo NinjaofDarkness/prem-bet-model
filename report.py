@@ -24,8 +24,6 @@ gw = df_preds['gw'].iloc[0]
 
 st.markdown(f"**Season:** {season} | **Gameweek:** {gw} | **Matches:** {len(df_preds)}")
 
-# Here can you add match cards with data from the table in a more visual format (model predictions in %, odds, etc.). I want it to be very pleasign to look at and the UX to be understanding straight away what the model predicts and what the odds are.
-
 cols = st.columns(3)  # 3 cards per row
 
 for idx, row in df_preds.iterrows():
