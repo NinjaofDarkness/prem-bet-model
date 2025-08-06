@@ -1,0 +1,11 @@
+datetime,h_title,a_title,book_odds_h,book_odds_d,book_odds_a,prediction,outcome
+2025-05-25,Fulham,Manchester City,2.976,4.254,2.332,A,A
+2025-05-25,Newcastle United,Everton,2.746,3.211,3.083,D,A
+2025-05-25,Liverpool,Crystal Palace,2.014,3.811,4.148,H,D
+2025-05-25,Manchester United,Aston Villa,1.066,18.727,113.636,H,H
+2025-05-25,Nottingham Forest,Chelsea,2.402,3.234,3.644,H,A
+2025-05-25,Southampton,Arsenal,17.182,7.321,1.242,A,A
+2025-05-25,Ipswich,West Ham,3.244,2.95,2.835,H,A
+2025-05-25,Wolverhampton Wanderers,Brentford,5.58,4.511,1.669,D,D
+2025-05-25,Tottenham,Brighton,8.006,5.241,1.461,A,A
+2025-05-25,Bournemouth,Leicester,1.067,17.241,196.078,H,H

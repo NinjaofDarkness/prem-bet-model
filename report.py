@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="The Hearty Cash Machine", layout="wide")
 
 st.markdown("<h1 style='text-align: center;'>💰💸 The Hearty Prem Cash Machine 💸💰</h1>", unsafe_allow_html=True)
+st.markdown("---")
 
 # --- Load Predictions ---
 @st.cache_data
@@ -47,13 +48,48 @@ for idx, row in df_preds.iterrows():
         )
         st.markdown("---")
 
-
-
 st.dataframe(
     df_preds[['datetime', 'h_title', 'a_title', 'book_odds_h', 'book_odds_d', 'book_odds_a', 'pred_H', 'pred_D', 'pred_A', 'predicted_outcome', 'bet_decision']],
     use_container_width=True
 )
+st.markdown("---")
 
+# --- Load Simulated Bet Results ---
+@st.cache_data
+def load_bet_summary(path):
+    return pd.read_csv(path)
+
+@st.cache_data
+def load_bet_details(path):
+    return pd.read_csv(path)
+
+# --- Last GW Review ---
+st.header("🧾 Last GW Review")
+
+summary_path = "data/output/train_eval/last_gw_sim_summary.csv"
+details_path = "data/output/train_eval/last_gw_sim_details.csv"
+
+df_summary = load_bet_summary(summary_path)
+df_details = load_bet_details(details_path)
+
+st.subheader(f"💷 Summary Profit Overview -> £1 on every match")
+total_bets = int(df_summary['total_bets'].iloc[0])
+total_profit = float(df_summary['total_profit'].iloc[0])
+roi = float(df_summary['roi_percent'].iloc[0])
+
+st.markdown(
+    f"""
+    - ✅ **Total Bets Placed:** `{total_bets}`
+    - 💸 **Total Profit:** `£{total_profit:.2f}`
+    - 📈 **ROI:** `{roi:.2f}%`
+    """
+)
+
+st.subheader("📊 Bet Results Detail")
+st.dataframe(
+    df_details[['datetime', 'h_title', 'a_title', 'prediction', 'outcome', 'profit']])
+
+st.markdown("---")
 st.header("🤓 Model Statistics")
 
 # --- Feature Importance and Accuracy Side-by-Side ---

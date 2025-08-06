@@ -67,6 +67,21 @@ def train_model(final_trainset, gw_to_predict, season_to_predict, features_path,
     y_proba = model.predict_proba(X_test)
     y_pred = model.predict(X_test)
 
+    # Simulate returns
+    pred_proba_df = pd.DataFrame(y_proba, columns=le.classes_, index=test_df.index)
+
+    # Add predictions and probabilities to test_df
+    test_df['pred_label'] = le.inverse_transform(y_pred)
+    test_df['pred_proba_h'] = pred_proba_df['H']
+    test_df['pred_proba_d'] = pred_proba_df['D']
+    test_df['pred_proba_a'] = pred_proba_df['A']
+
+    # Decide bet: choose the class with highest predicted probability
+    test_df['prediction'] = pred_proba_df.idxmax(axis=1)
+    results_df = test_df.copy()
+    results_df = results_df[['datetime', 'h_title', 'a_title', 'book_odds_h', 'book_odds_d', 'book_odds_a', 'prediction', 'outcome']]
+    results_df.to_csv(os.path.join(os.path.dirname(model_path), 'results.csv'), index=False)
+
     # Evaluate
     output_dir = "data/output/train_eval"
 
@@ -98,4 +113,4 @@ def train_model(final_trainset, gw_to_predict, season_to_predict, features_path,
     plt.savefig(os.path.join(output_dir, "feature_importance.png"))
     plt.close()
 
-    return model, le, feature_cols
+    return model, le, feature_cols, results_df

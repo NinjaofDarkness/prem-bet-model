@@ -4,6 +4,7 @@ from scripts.data_load import run_data_load
 from scripts.data_align import prep_trainset
 from scripts.feature_engineering import engineer_features
 from scripts.baseline_model import train_model
+from scripts.simulate_returns import simulate_bets
 from scripts.predict import predict_gw
 
 ### MANUAL CONFIGURATION BEFORE RUNNING SCRIPT ###
@@ -59,9 +60,11 @@ def main():
         merged_trainset, final_trainset_path
     )
 
-    model, le, feature_cols = train_model(
+    model, le, feature_cols, results_df = train_model(
         final_trainset, gw_to_predict, season_to_predict, features_path, label_encoder_path, model_path
     )
+
+    simulate_bets(results_df)
 
     predictions = predict_gw(
         gw_to_predict, season_to_predict, threshold, model, le, feature_cols, final_trainset_path, output_predictions_path
