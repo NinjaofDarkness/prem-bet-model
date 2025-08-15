@@ -1,14 +1,14 @@
 gw,datetime,season,h_id,h_title,a_id,a_title,goals_h,goals_a,xG_h,xG_a,outcome,book_odds_h,book_odds_d,book_odds_a
-1,2025-08-15,2025,87,Liverpool,73,Bournemouth,,,,,,5/14,25/2,15/2
-1,2025-08-16,2025,71,Aston Villa,86,Newcastle United,,,,,,11/8,47/18,15/8
-1,2025-08-16,2025,220,Brighton,228,Fulham,,,,,,19/20,14/5,10/3
-1,2025-08-16,2025,77,Sunderland,81,West Ham,,,,,,11/5,27/11,13/10
-1,2025-08-16,2025,82,Tottenham,92,Burnley,,,,,,5/14,22/5,17/2
-1,2025-08-16,2025,229,Wolverhampton Wanderers,88,Manchester City,,,,,,11/2,37/10,1/2
-1,2025-08-17,2025,80,Chelsea,78,Crystal Palace,,,,,,3/5,10/3,9/2
-1,2025-08-17,2025,249,Nottingham Forest,244,Brentford,,,,,,23/20,13/5,5/2
-1,2025-08-17,2025,89,Manchester United,83,Arsenal,,,,,,5/2,5/2,23/20
-1,2025-08-18,2025,245,Leeds,72,Everton,,,,,,8/5,12/5,35/19
+1,2025-08-15,2025,87,Liverpool,73,Bournemouth,,,,,,1/3,11/2,17/2
+1,2025-08-16,2025,71,Aston Villa,86,Newcastle United,,,,,,11/8,11/4,21/10
+1,2025-08-16,2025,220,Brighton,228,Fulham,,,,,,96/100,11/4,3/1
+1,2025-08-16,2025,77,Sunderland,81,West Ham,,,,,,9/4,5/2,13/10
+1,2025-08-16,2025,82,Tottenham,92,Burnley,,,,,,2/5,4/1,17/2
+1,2025-08-16,2025,229,Wolverhampton Wanderers,88,Manchester City,,,,,,13/2,4/1,19/40
+1,2025-08-17,2025,80,Chelsea,78,Crystal Palace,,,,,,64/100,7/2,9/2
+1,2025-08-17,2025,249,Nottingham Forest,244,Brentford,,,,,,6/5,5/2,13/5
+1,2025-08-17,2025,89,Manchester United,83,Arsenal,,,,,,11/4,53/20,11/10
+1,2025-08-18,2025,245,Leeds,72,Everton,,,,,,6/4,41/17,205/100
 2,2025-08-22,2025,73,Bournemouth,229,Wolverhampton Wanderers,,,,,,,,
 2,2025-08-23,2025,83,Arsenal,245,Leeds,,,,,,,,
 2,2025-08-23,2025,244,Brentford,71,Aston Villa,,,,,,,,
