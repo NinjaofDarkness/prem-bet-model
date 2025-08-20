@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+from run_pipeline import gw_to_predict, season_to_predict
 
 st.set_page_config(page_title="The Hearty Cash Machine", layout="wide")
 
@@ -19,7 +20,7 @@ def load_accuracy(path):
 
 # --- Display Predictions ---
 st.header("📅 Match Predictions")
-df_preds = load_predictions("data/output/predictions/2025_gw1.csv")
+df_preds = load_predictions(f"data/output/predictions/2025_gw{gw_to_predict}.csv")
 season = df_preds['season'].iloc[0]
 gw = df_preds['gw'].iloc[0]
 
