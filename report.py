@@ -1,7 +1,14 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-from run_pipeline import gw_to_predict, season_to_predict
+import yaml
+
+def load_config(config_path="config.yaml"):
+    with open(config_path, "r") as f:
+        return yaml.safe_load(f)
+
+config = load_config()
+gw_to_predict = config['gw_to_predict']
 
 st.set_page_config(page_title="The Hearty Cash Machine", layout="wide")
 
