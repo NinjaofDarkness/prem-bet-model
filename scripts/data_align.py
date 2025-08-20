@@ -30,9 +30,17 @@ def encode_outcome(row):
 
 def add_gw(trainset):
     trainset = trainset.sort_values(by='datetime').reset_index(drop=True)
-    # Create the 'gw' column: 1 to 38, each repeated 10 times
-    trainset['gw'] = np.tile(np.repeat(np.arange(1, 39), 10), 10)
+    
+    n_matches = len(trainset)
+    # total gameweeks = number of matches / 10
+    total_gws = n_matches // 10  
+    
+    # Generate GW numbers dynamically
+    gw = np.repeat(np.arange(1, total_gws + 1), 10)
+    
+    trainset['gw'] = gw
     trainset.insert(2, 'gw', trainset.pop('gw'))
+    
     return trainset
 
 def clean_and_convert_to_odds(matches_df):

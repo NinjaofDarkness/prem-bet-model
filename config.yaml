@@ -2,7 +2,7 @@
 
 # ---------- DATA CONFIG ----------
 start_year: 2015
-end_year: 2024
+end_year: 2025
 league: EPL
 raw_match_data_path: data/raw/match_data.csv
 raw_elo_data_path: data/raw/elo_ratings.csv
@@ -19,7 +19,7 @@ label_encoder_path: models/label_encoder.pkl
 model_path: models/xgb_model.pkl
 
 # ---------- PREDICTION ----------
-gw_to_predict: 1
+gw_to_predict: 2
 season_to_predict: 2025
 threshold_ev: 0.05
 output_predictions_path: data/output/predictions/{season_to_predict}_gw{gw_to_predict}.csv

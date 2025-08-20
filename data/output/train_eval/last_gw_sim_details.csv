@@ -1,11 +1,11 @@
 datetime,h_title,a_title,book_odds_h,book_odds_d,book_odds_a,prediction,outcome,odds,won,profit
-2025-05-25,Fulham,Manchester City,2.976,4.254,2.332,A,A,2.332,True,1.3319999999999999
-2025-05-25,Newcastle United,Everton,2.746,3.211,3.083,D,A,3.211,False,-1.0
-2025-05-25,Liverpool,Crystal Palace,2.014,3.811,4.148,H,D,2.014,False,-1.0
-2025-05-25,Manchester United,Aston Villa,1.066,18.727,113.636,H,H,1.066,True,0.06600000000000006
-2025-05-25,Nottingham Forest,Chelsea,2.402,3.234,3.644,H,A,2.402,False,-1.0
-2025-05-25,Southampton,Arsenal,17.182,7.321,1.242,A,A,1.242,True,0.242
-2025-05-25,Ipswich,West Ham,3.244,2.95,2.835,H,A,3.244,False,-1.0
-2025-05-25,Wolverhampton Wanderers,Brentford,5.58,4.511,1.669,D,D,4.511,True,3.511
-2025-05-25,Tottenham,Brighton,8.006,5.241,1.461,A,A,1.461,True,0.4610000000000001
-2025-05-25,Bournemouth,Leicester,1.067,17.241,196.078,H,H,1.067,True,0.06699999999999995
+2025-08-15,Liverpool,Bournemouth,1.819,4.394,4.492,H,H,1.819,True,0.819
+2025-08-16,Aston Villa,Newcastle United,15.898,4.218,1.429,A,D,1.429,False,-1.0
+2025-08-16,Brighton,Fulham,1.939,3.238,5.701,H,D,1.939,False,-1.0
+2025-08-16,Sunderland,West Ham,2.755,2.558,4.065,D,H,2.558,False,-1.0
+2025-08-16,Tottenham,Burnley,1.422,5.018,10.256,H,H,1.422,True,0.42199999999999993
+2025-08-16,Wolverhampton Wanderers,Manchester City,24.752,8.482,1.188,A,A,1.188,True,0.18799999999999994
+2025-08-17,Manchester United,Arsenal,2.934,3.253,2.843,H,A,2.934,False,-1.0
+2025-08-17,Nottingham Forest,Brentford,2.121,3.503,4.114,A,H,4.114,False,-1.0
+2025-08-17,Chelsea,Crystal Palace,2.271,3.414,3.75,D,D,3.414,True,2.414
+2025-08-18,Leeds,Everton,1.232,7.174,20.408,H,H,1.232,True,0.23199999999999998

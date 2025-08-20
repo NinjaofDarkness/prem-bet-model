@@ -41,7 +41,7 @@ def simulate_bets(results_df):
         "roi_percent": round(roi, 2)
     }])
 
-    summary_df.to_csv(os.path.join(output_dir, "last_gw_sum_summary.csv"), index=False)
+    summary_df.to_csv(os.path.join(output_dir, "last_gw_sim_summary.csv"), index=False)
 
 
     return bets

@@ -51,6 +51,7 @@ def main():
     matches_df, elo_df = run_data_load(
         client, start_year, end_year, league, raw_match_data_path, raw_elo_data_path
     )
+    print(matches_df.tail())
 
     merged_trainset = prep_trainset(
         matches_df, elo_df, raw_squad_data_path, raw_fixtures_path, merged_trainset_path, gw_to_predict, season_to_predict

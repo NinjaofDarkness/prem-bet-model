@@ -133,6 +133,7 @@ def fetch_elo_data(df_summary, start_year) -> pd.DataFrame:
 
 def run_data_load(client, start_year, end_year, league, raw_match_data_path, raw_elo_data_path):
     df_matches = fetch_match_data(client,start_year, end_year, league)
+    df_matches = df_matches[df_matches['isResult'] == True].reset_index(drop=True)
     df_matches.to_csv(raw_match_data_path, index=False)
     print("Saved match data")
 
