@@ -1,11 +1,11 @@
 datetime,season,gw,h_title,a_title,book_odds_h,book_odds_d,book_odds_a,pred_H,pred_D,pred_A,bet_decision,predicted_outcome
-2025-08-22,2025,2,West Ham,Chelsea,5.25,4.0,1.615,0.067,0.338,0.595,D,A
+2025-08-22,2025,2,West Ham,Chelsea,4.75,4.0,1.7,0.074,0.442,0.483,D,A
 2025-08-23,2025,2,Bournemouth,Wolverhampton Wanderers,1.8,3.8,4.2,0.672,0.046,0.282,H,H
-2025-08-23,2025,2,Arsenal,Leeds,1.286,6.0,8.5,0.951,0.04,0.009,H,H
+2025-08-23,2025,2,Arsenal,Leeds,1.27,6.5,9.5,0.943,0.044,0.013,H,H
 2025-08-23,2025,2,Brentford,Aston Villa,3.2,3.6,2.15,0.135,0.781,0.085,D,D
-2025-08-23,2025,2,Burnley,Sunderland,2.4,3.1,3.2,0.771,0.111,0.118,H,H
-2025-08-23,2025,2,Manchester City,Tottenham,1.444,4.5,7.0,0.618,0.23,0.152,A,H
-2025-08-24,2025,2,Everton,Brighton,3.0,3.3,2.375,0.243,0.146,0.611,A,A
-2025-08-24,2025,2,Fulham,Manchester United,3.2,3.5,2.2,0.279,0.06,0.661,A,A
-2025-08-24,2025,2,Crystal Palace,Nottingham Forest,2.3,3.3,3.2,0.492,0.295,0.214,H,H
+2025-08-23,2025,2,Burnley,Sunderland,2.25,3.2,3.4,0.797,0.067,0.136,H,H
+2025-08-23,2025,2,Manchester City,Tottenham,1.5,4.75,5.75,0.496,0.253,0.251,A,H
+2025-08-24,2025,2,Everton,Brighton,3.1,3.3,2.3,0.243,0.146,0.611,A,A
+2025-08-24,2025,2,Fulham,Manchester United,3.25,3.5,2.15,0.263,0.057,0.68,A,A
+2025-08-24,2025,2,Crystal Palace,Nottingham Forest,2.35,3.3,3.1,0.315,0.397,0.288,D,D
 2025-08-25,2025,2,Newcastle United,Liverpool,3.4,3.8,2.0,0.54,0.09,0.37,H,H

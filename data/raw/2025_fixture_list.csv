@@ -10,15 +10,15 @@ gw,datetime,season,h_id,h_title,a_id,a_title,goals_h,goals_a,xG_h,xG_a,outcome,b
 1,2025-08-17,2025,89,Manchester United,83,Arsenal,,,,,,11/4,53/20,11/10
 1,2025-08-18,2025,245,Leeds,72,Everton,,,,,,6/4,41/17,205/100
 2,2025-08-23,2025,73,Bournemouth,229,Wolverhampton Wanderers,,,,,,4/5,14/5,16/5
-2,2025-08-23,2025,83,Arsenal,245,Leeds,,,,,,2/7,5/1,15/2
+2,2025-08-23,2025,83,Arsenal,245,Leeds,,,,,,27/100,11/2,17/2
 2,2025-08-23,2025,244,Brentford,71,Aston Villa,,,,,,11/5,13/5,23/20
-2,2025-08-23,2025,92,Burnley,77,Sunderland,,,,,,7/5,21/10,11/5
-2,2025-08-24,2025,78,Crystal Palace,249,Nottingham Forest,,,,,,13/10,23/10,11/5
-2,2025-08-24,2025,72,Everton,220,Brighton,,,,,,2/1,23/10,11/8
-2,2025-08-24,2025,228,Fulham,89,Manchester United,,,,,,11/5,5/2,6/5
-2,2025-08-23,2025,88,Manchester City,82,Tottenham,,,,,,4/9,7/2,6/1
+2,2025-08-23,2025,92,Burnley,77,Sunderland,,,,,,5/4,11/5,12/5
+2,2025-08-24,2025,78,Crystal Palace,249,Nottingham Forest,,,,,,27/20,23/10,21/10
+2,2025-08-24,2025,72,Everton,220,Brighton,,,,,,21/10,23/10,13/10
+2,2025-08-24,2025,228,Fulham,89,Manchester United,,,,,,9/4,5/2,23/20
+2,2025-08-23,2025,88,Manchester City,82,Tottenham,,,,,,1/2,15/4,19/4
 2,2025-08-25,2025,86,Newcastle United,87,Liverpool,,,,,,12/5,14/5,1/1
-2,2025-08-22,2025,81,West Ham,80,Chelsea,,,,,,17/4,3/1,8/13
+2,2025-08-22,2025,81,West Ham,80,Chelsea,,,,,,15/4,3/1,7/10
 3,2025-08-29,2025,71,Aston Villa,78,Crystal Palace,,,,,,,,
 3,2025-08-30,2025,220,Brighton,88,Manchester City,,,,,,,,
 3,2025-08-30,2025,80,Chelsea,228,Fulham,,,,,,,,
