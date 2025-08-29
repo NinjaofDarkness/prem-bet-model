@@ -1,0 +1,11 @@
+datetime,season,gw,h_title,a_title,book_odds_h,book_odds_d,book_odds_a,pred_H,pred_D,pred_A,bet_decision,predicted_outcome
+2025-08-30,2025,3,Sunderland,Brentford,3.0,3.3,2.4,0.453,0.298,0.249,H,H
+2025-08-30,2025,3,Manchester United,Burnley,1.333,5.25,8.0,0.802,0.162,0.036,H,H
+2025-08-30,2025,3,Leeds,Newcastle United,3.5,3.4,2.1,0.108,0.769,0.123,D,D
+2025-08-30,2025,3,Tottenham,Bournemouth,1.727,4.2,4.2,0.816,0.094,0.09,H,H
+2025-08-30,2025,3,Chelsea,Fulham,1.571,4.333,5.25,0.766,0.183,0.051,H,H
+2025-08-30,2025,3,Wolverhampton Wanderers,Everton,2.75,3.2,2.625,0.574,0.129,0.297,H,H
+2025-08-31,2025,3,Nottingham Forest,West Ham,1.667,3.75,5.25,0.382,0.163,0.454,A,A
+2025-08-31,2025,3,Liverpool,Arsenal,2.2,3.4,3.3,0.85,0.035,0.115,H,H
+2025-08-31,2025,3,Brighton,Manchester City,3.8,3.9,1.9,0.095,0.399,0.506,D,A
+2025-08-31,2025,3,Aston Villa,Crystal Palace,1.85,3.7,4.0,0.381,0.331,0.288,D,H
