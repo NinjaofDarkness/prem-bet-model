@@ -3,6 +3,7 @@ import ast
 import requests
 from io import StringIO
 from typing import List, Dict
+import sys
 
 def fetch_match_data(client, start_year: int, end_year: int, league: str) -> pd.DataFrame:
     """Fetches all match data for a league across seasons."""
@@ -15,8 +16,8 @@ def fetch_match_data(client, start_year: int, end_year: int, league: str) -> pd.
                 m["season"] = year
             all_matches.extend(matches)
         except Exception as e:
-            print(f"[!] Error fetching match data for {year}: {e}")
-            continue
+            print(f"❌ Failed fetching match data for {league} {year}: {e}")
+            sys.exit(1)
 
     df = pd.json_normalize(all_matches, sep="_")
     return df
@@ -33,8 +34,8 @@ def fetch_team_data(df_matches, client, start_year: int, end_year: int, league: 
                 stats['team_name'] = team_name
                 all_team_data.append(stats)
         except Exception as e:
-            print(f"[!] Error fetching team stats for {year}: {e}")
-            continue
+            print(f"❌ Failed fetching team stats for {team_name}: {e}")
+            sys.exit(1)
 
     df = pd.json_normalize(all_team_data, sep="_")
 
@@ -111,7 +112,7 @@ def fetch_elo_data(df_summary, start_year) -> pd.DataFrame:
 
         url = f"http://api.clubelo.com/{api_name}"
         try:
-            response = requests.get(url, timeout=10)
+            response = requests.get(url, timeout=30)
             response.raise_for_status()
             df = pd.read_csv(StringIO(response.text))
             clubelo_data[team_name] = df

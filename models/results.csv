@@ -1,11 +1,11 @@
 datetime,h_title,a_title,book_odds_h,book_odds_d,book_odds_a,prediction,outcome
-2025-08-22,West Ham,Chelsea,65.359,20.619,1.068,A,A
-2025-08-23,Bournemouth,Wolverhampton Wanderers,1.268,6.09,21.277,H,H
-2025-08-23,Arsenal,Leeds,1.045,25.641,243.902,H,H
-2025-08-23,Manchester City,Tottenham,2.836,3.461,2.789,H,A
-2025-08-23,Brentford,Aston Villa,2.488,3.005,3.769,D,H
-2025-08-23,Burnley,Sunderland,3.358,3.037,2.682,H,H
-2025-08-24,Fulham,Manchester United,2.585,3.506,3.049,A,D
-2025-08-24,Crystal Palace,Nottingham Forest,3.544,3.256,2.435,H,D
-2025-08-24,Everton,Brighton,3.617,3.604,2.242,A,H
-2025-08-25,Newcastle United,Liverpool,1.335,5.577,14.006,H,A
+2025-08-30,Wolverhampton Wanderers,Everton,8.299,4.798,1.49,A,A
+2025-08-30,Chelsea,Fulham,1.233,7.474,18.116,H,H
+2025-08-30,Tottenham,Bournemouth,62.5,9.183,1.143,A,A
+2025-08-30,Manchester United,Burnley,1.098,15.267,42.553,H,H
+2025-08-30,Leeds,Newcastle United,2.451,2.213,7.133,D,D
+2025-08-30,Sunderland,Brentford,2.737,3.131,3.173,H,H
+2025-08-31,Nottingham Forest,West Ham,16.835,6.443,1.273,A,A
+2025-08-31,Brighton,Manchester City,2.612,3.668,2.902,D,H
+2025-08-31,Liverpool,Arsenal,3.73,2.163,3.711,D,H
+2025-08-31,Aston Villa,Crystal Palace,13.624,6.211,1.306,A,A
