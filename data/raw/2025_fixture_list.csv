@@ -39,16 +39,16 @@ gw,datetime,season,h_id,h_title,a_id,a_title,goals_h,goals_a,xG_h,xG_a,outcome,b
 4,2025-09-14,2025,88,Manchester City,89,Manchester United,,,,,,3/4,3/1,16/5
 4,2025-09-13,2025,86,Newcastle United,229,Wolverhampton Wanderers,,,,,,21/50,15/4,6/1
 4,2025-09-13,2025,81,West Ham,82,Tottenham,,,,,,12/5,13/5,11/10
-5,2025-09-20,2025,73,Bournemouth,86,Newcastle United,,,,,,,,
-5,2025-09-20,2025,83,Arsenal,88,Manchester City,,,,,,,,
-5,2025-09-20,2025,220,Brighton,82,Tottenham,,,,,,,,
-5,2025-09-20,2025,92,Burnley,249,Nottingham Forest,,,,,,,,
-5,2025-09-20,2025,228,Fulham,244,Brentford,,,,,,,,
-5,2025-09-20,2025,87,Liverpool,72,Everton,,,,,,,,
-5,2025-09-20,2025,89,Manchester United,80,Chelsea,,,,,,,,
-5,2025-09-20,2025,77,Sunderland,71,Aston Villa,,,,,,,,
-5,2025-09-20,2025,81,West Ham,78,Crystal Palace,,,,,,,,
-5,2025-09-20,2025,229,Wolverhampton Wanderers,245,Leeds,,,,,,,,
+5,2025-09-21,2025,73,Bournemouth,86,Newcastle United,,,,,,27/20,5/2,15/8
+5,2025-09-21,2025,83,Arsenal,88,Manchester City,,,,,,17/20,29/10,14/5
+5,2025-09-20,2025,220,Brighton,82,Tottenham,,,,,,5/4,27/10,2/1
+5,2025-09-20,2025,92,Burnley,249,Nottingham Forest,,,,,,5/2,23/10,23/20
+5,2025-09-20,2025,228,Fulham,244,Brentford,,,,,,1/1,12/5,14/5
+5,2025-09-20,2025,87,Liverpool,72,Everton,,,,,,9/20,15/4,11/2
+5,2025-09-20,2025,89,Manchester United,80,Chelsea,,,,,,8/5,14/5,29/20
+5,2025-09-21,2025,77,Sunderland,71,Aston Villa,,,,,,12/5,5/2,11/10
+5,2025-09-20,2025,81,West Ham,78,Crystal Palace,,,,,,15/8,5/2,11/8
+5,2025-09-20,2025,229,Wolverhampton Wanderers,245,Leeds,,,,,,17/10,11/5,7/4
 6,2025-09-27,2025,71,Aston Villa,228,Fulham,,,,,,,,
 6,2025-09-27,2025,244,Brentford,89,Manchester United,,,,,,,,
 6,2025-09-27,2025,80,Chelsea,220,Brighton,,,,,,,,

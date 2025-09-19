@@ -1,11 +1,11 @@
 datetime,h_title,a_title,book_odds_h,book_odds_d,book_odds_a,prediction,outcome,odds,won,profit
-2025-08-30,Wolverhampton Wanderers,Everton,8.299,4.798,1.49,A,A,1.49,True,0.49
-2025-08-30,Chelsea,Fulham,1.233,7.474,18.116,H,H,1.233,True,0.2330000000000001
-2025-08-30,Tottenham,Bournemouth,62.5,9.183,1.143,A,A,1.143,True,0.14300000000000002
-2025-08-30,Manchester United,Burnley,1.098,15.267,42.553,H,H,1.098,True,0.09800000000000009
-2025-08-30,Leeds,Newcastle United,2.451,2.213,7.133,D,D,2.213,True,1.213
-2025-08-30,Sunderland,Brentford,2.737,3.131,3.173,H,H,2.737,True,1.737
-2025-08-31,Nottingham Forest,West Ham,16.835,6.443,1.273,A,A,1.273,True,0.2729999999999999
-2025-08-31,Brighton,Manchester City,2.612,3.668,2.902,D,H,3.668,False,-1.0
-2025-08-31,Liverpool,Arsenal,3.73,2.163,3.711,D,H,2.163,False,-1.0
-2025-08-31,Aston Villa,Crystal Palace,13.624,6.211,1.306,A,A,1.306,True,0.30600000000000005
+2025-09-13,Fulham,Leeds,2.288,2.956,4.452,H,H,2.288,True,1.2879999999999998
+2025-09-13,Everton,Aston Villa,1.274,6.031,20.202,H,D,1.274,False,-1.0
+2025-09-13,Bournemouth,Brighton,1.619,3.754,8.628,H,H,1.619,True,0.619
+2025-09-13,Crystal Palace,Sunderland,1.278,5.931,20.367,H,D,1.278,False,-1.0
+2025-09-13,Arsenal,Nottingham Forest,1.062,20.833,99.01,H,H,1.062,True,0.062000000000000055
+2025-09-13,Newcastle United,Wolverhampton Wanderers,1.604,3.508,10.929,H,H,1.604,True,0.6040000000000001
+2025-09-13,West Ham,Tottenham,5.896,3.563,1.819,A,A,1.819,True,0.819
+2025-09-13,Brentford,Chelsea,2.02,3.34,4.864,D,D,3.34,True,2.34
+2025-09-14,Burnley,Liverpool,270.27,25.84,1.044,A,A,1.044,True,0.04400000000000004
+2025-09-14,Manchester City,Manchester United,2.084,3.887,3.805,H,H,2.084,True,1.084
