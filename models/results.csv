@@ -1,11 +1,11 @@
 datetime,h_title,a_title,book_odds_h,book_odds_d,book_odds_a,prediction,outcome
-2025-09-13,Fulham,Leeds,2.288,2.956,4.452,H,H
-2025-09-13,Everton,Aston Villa,1.274,6.031,20.202,H,D
-2025-09-13,Bournemouth,Brighton,1.619,3.754,8.628,H,H
-2025-09-13,Crystal Palace,Sunderland,1.278,5.931,20.367,H,D
-2025-09-13,Arsenal,Nottingham Forest,1.062,20.833,99.01,H,H
-2025-09-13,Newcastle United,Wolverhampton Wanderers,1.604,3.508,10.929,H,H
-2025-09-13,West Ham,Tottenham,5.896,3.563,1.819,A,A
-2025-09-13,Brentford,Chelsea,2.02,3.34,4.864,D,D
-2025-09-14,Burnley,Liverpool,270.27,25.84,1.044,A,A
-2025-09-14,Manchester City,Manchester United,2.084,3.887,3.805,H,H
+2025-09-20,Fulham,Brentford,1.772,3.864,5.653,H,H
+2025-09-20,Manchester United,Chelsea,1.589,3.639,10.438,H,H
+2025-09-20,Burnley,Nottingham Forest,2.274,3.157,4.107,A,D
+2025-09-20,Brighton,Tottenham,2.483,3.04,3.727,H,D
+2025-09-20,West Ham,Crystal Palace,28.571,8.613,1.178,A,A
+2025-09-20,Liverpool,Everton,2.245,3.03,4.454,H,H
+2025-09-20,Wolverhampton Wanderers,Leeds,1.454,4.413,11.682,H,A
+2025-09-21,Sunderland,Aston Villa,3.069,2.888,3.05,H,D
+2025-09-21,Bournemouth,Newcastle United,2.537,1.917,11.876,H,D
+2025-09-21,Arsenal,Manchester City,4.931,3.105,2.105,A,D

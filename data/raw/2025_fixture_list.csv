@@ -49,16 +49,16 @@ gw,datetime,season,h_id,h_title,a_id,a_title,goals_h,goals_a,xG_h,xG_a,outcome,b
 5,2025-09-21,2025,77,Sunderland,71,Aston Villa,,,,,,12/5,5/2,11/10
 5,2025-09-20,2025,81,West Ham,78,Crystal Palace,,,,,,15/8,5/2,11/8
 5,2025-09-20,2025,229,Wolverhampton Wanderers,245,Leeds,,,,,,17/10,11/5,7/4
-6,2025-09-27,2025,71,Aston Villa,228,Fulham,,,,,,,,
-6,2025-09-27,2025,244,Brentford,89,Manchester United,,,,,,,,
-6,2025-09-27,2025,80,Chelsea,220,Brighton,,,,,,,,
-6,2025-09-27,2025,78,Crystal Palace,87,Liverpool,,,,,,,,
-6,2025-09-27,2025,72,Everton,81,West Ham,,,,,,,,
-6,2025-09-27,2025,245,Leeds,73,Bournemouth,,,,,,,,
-6,2025-09-27,2025,88,Manchester City,92,Burnley,,,,,,,,
-6,2025-09-27,2025,86,Newcastle United,83,Arsenal,,,,,,,,
-6,2025-09-27,2025,249,Nottingham Forest,77,Sunderland,,,,,,,,
-6,2025-09-27,2025,82,Tottenham,229,Wolverhampton Wanderers,,,,,,,,
+6,2025-09-28,2025,71,Aston Villa,228,Fulham,,,,,,13/10,21/10,12/5
+6,2025-09-27,2025,244,Brentford,89,Manchester United,,,,,,12/5,14/5,1/1
+6,2025-09-27,2025,80,Chelsea,220,Brighton,,,,,,17/20,14/5,14/5
+6,2025-09-27,2025,78,Crystal Palace,87,Liverpool,,,,,,14/5,14/5,9/10
+6,2025-09-29,2025,72,Everton,81,West Ham,,,,,,7/10,11/4,4/1
+6,2025-09-27,2025,245,Leeds,73,Bournemouth,,,,,,21/10,9/4,11/8
+6,2025-09-27,2025,88,Manchester City,92,Burnley,,,,,,1/6,13/2,14/1
+6,2025-09-28,2025,86,Newcastle United,83,Arsenal,,,,,,13/5,12/5,11/10
+6,2025-09-27,2025,249,Nottingham Forest,77,Sunderland,,,,,,3/4,11/4,7/2
+6,2025-09-27,2025,82,Tottenham,229,Wolverhampton Wanderers,,,,,,1/2,7/2,5/1
 7,2025-10-04,2025,73,Bournemouth,228,Fulham,,,,,,,,
 7,2025-10-04,2025,83,Arsenal,81,West Ham,,,,,,,,
 7,2025-10-04,2025,71,Aston Villa,92,Burnley,,,,,,,,
