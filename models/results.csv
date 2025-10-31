@@ -1,11 +1,11 @@
 datetime,h_title,a_title,book_odds_h,book_odds_d,book_odds_a,prediction,outcome
-2025-10-03,Bournemouth,Fulham,1.985,3.366,5.02,H,H
-2025-10-04,Leeds,Tottenham,1.667,3.798,7.315,H,A
-2025-10-04,Arsenal,West Ham,1.127,11.223,42.918,H,H
-2025-10-04,Manchester United,Sunderland,1.465,4.838,9.033,H,H
-2025-10-04,Chelsea,Liverpool,6.238,3.915,1.711,A,H
-2025-10-05,Aston Villa,Burnley,1.423,4.613,12.453,H,H
-2025-10-05,Everton,Crystal Palace,2.76,3.779,2.68,H,H
-2025-10-05,Newcastle United,Nottingham Forest,1.022,54.945,333.333,H,H
-2025-10-05,Wolverhampton Wanderers,Brighton,12.547,4.042,1.486,A,D
-2025-10-05,Brentford,Manchester City,4.701,2.876,2.275,A,A
+2025-10-18,Nottingham Forest,Chelsea,3.622,4.301,2.035,A,A
+2025-10-18,Burnley,Leeds,31.447,7.831,1.19,A,H
+2025-10-18,Brighton,Newcastle United,4.274,3.398,2.12,D,H
+2025-10-18,Manchester City,Everton,1.27,6.369,17.889,H,H
+2025-10-18,Crystal Palace,Bournemouth,1.124,13.089,29.155,H,D
+2025-10-18,Fulham,Arsenal,19.646,7.027,1.239,A,A
+2025-10-18,Sunderland,Wolverhampton Wanderers,2.212,3.01,4.636,D,H
+2025-10-19,Liverpool,Manchester United,2.481,4.257,2.762,H,A
+2025-10-19,Tottenham,Aston Villa,1.38,4.764,15.267,H,A
+2025-10-20,West Ham,Brentford,178.571,34.965,1.035,A,A
