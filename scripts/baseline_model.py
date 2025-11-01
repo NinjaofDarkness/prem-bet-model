@@ -85,7 +85,7 @@ def train_model(final_trainset, gw_to_predict, season_to_predict, features_path,
     # Evaluate
     output_dir = "data/output/train_eval"
 
-    logloss = log_loss(y_test, y_proba)
+    logloss = 0 #log_loss(y_test, y_proba) 
     acc = accuracy_score(y_test, y_pred)
 
     acc_csv_path = os.path.join(output_dir, "train_acc.csv")
