@@ -1,0 +1,11 @@
+datetime,season,gw,h_title,a_title,book_odds_h,book_odds_d,book_odds_a,pred_H,pred_D,pred_A,bet_decision,predicted_outcome
+2025-11-08,2025,11,Nottingham Forest,Leeds,2.3,3.2,3.2,0.603,0.069,0.327,H,H
+2025-11-08,2025,11,Manchester City,Liverpool,1.9,3.9,3.7,0.574,0.121,0.305,A,H
+2025-11-08,2025,11,Sunderland,Arsenal,7.5,5.0,1.38,0.032,0.17,0.797,A,A
+2025-11-08,2025,11,Crystal Palace,Brighton,2.2,3.5,3.2,0.499,0.134,0.366,A,H
+2025-11-08,2025,11,Everton,Fulham,2.25,3.3,3.3,0.307,0.191,0.502,A,A
+2025-11-08,2025,11,Brentford,Newcastle United,2.8,3.5,2.45,0.34,0.419,0.241,D,D
+2025-11-08,2025,11,Aston Villa,Bournemouth,2.25,3.4,3.2,0.617,0.21,0.173,H,H
+2025-11-08,2025,11,Chelsea,Wolverhampton Wanderers,1.364,4.75,8.5,0.565,0.252,0.183,A,H
+2025-11-08,2025,11,Tottenham,Manchester United,2.7,3.5,2.5,0.412,0.18,0.408,H,H
+2025-11-08,2025,11,West Ham,Burnley,1.9,3.5,4.1,0.629,0.272,0.099,H,H
